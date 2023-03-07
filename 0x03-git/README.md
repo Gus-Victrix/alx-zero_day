@@ -1,1 +1,1 @@
-This directory contains the git projects given by ALX on the full-stack SE program
+This directory contains the git and gh projects given by ALX on the full-stack SE program
